@@ -1,0 +1,58 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 2,
+    "title": "Citrus Sunset",
+    "settings": {
+        "color": {
+            "palette": [
+                {
+                    "color": "rgba(16, 12, 11, 0.8)",
+                    "name": "Base",
+                    "slug": "base"
+                },
+                {
+                    "color": "#100C0B",
+                    "name": "Heading",
+                    "slug": "heading"
+                },
+                {
+                    "color": "#E63E1C",
+                    "name": "Primary",
+                    "slug": "primary"
+                },
+                {
+                    "color": "rgba(222, 243, 227, 1)",
+                    "name": "Section Background",
+                    "slug": "section-bg"
+                },
+                {
+                    "color": "linear-gradient(88deg, #E63E1C -10.27%, #FF6A4D 107.99%)",
+                    "name": "Subtitle Background",
+                    "slug": "sub-bg"
+                },
+                {
+                    "color": "currentColor",
+                    "name": "Current Color",
+                    "slug": "currentColor"
+                },
+                {
+                    "color": "inherit",
+                    "name": "Inherit",
+                    "slug": "inherit"
+                },
+                {
+                    "color": "transparent",
+                    "name": "Transparent",
+                    "slug": "transparent"
+                }
+            ],
+            "gradients": [
+                {
+                    "gradient": "linear-gradient(88deg, #E63E1C -10.27%, #FF6A4D 107.99%)",
+                    "name": "Primary Blue",
+                    "slug": "primary-blue"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 2,
+    "title": "Ruby Blush",
+    "settings": {
+        "color": {
+            "palette": [
+                {
+                    "color": "rgba(22, 15, 15, 0.80)",
+                    "name": "Base",
+                    "slug": "base"
+                },
+                {
+                    "color": "#100C0B",
+                    "name": "Heading",
+                    "slug": "heading"
+                },
+                {
+                    "color": "#FF5C66",
+                    "name": "Primary",
+                    "slug": "primary"
+                },
+                {
+                    "color": "rgba(255, 92, 102, 0.04)",
+                    "name": "Section Background",
+                    "slug": "section-bg"
+                },
+                {
+                    "color": "linear-gradient(88deg, #FF5E67 -10.27%, #FF5C66 107.99%)",
+                    "name": "Subtitle Background",
+                    "slug": "sub-bg"
+                },
+                {
+                    "color": "currentColor",
+                    "name": "Current Color",
+                    "slug": "currentColor"
+                },
+                {
+                    "color": "inherit",
+                    "name": "Inherit",
+                    "slug": "inherit"
+                },
+                {
+                    "color": "transparent",
+                    "name": "Transparent",
+                    "slug": "transparent"
+                }
+            ],
+            "gradients": [
+                {
+                    "gradient": "linear-gradient(88deg, #FF5E67 -10.27%, #FF5C66 107.99%)",
+                    "name": "Primary Blue",
+                    "slug": "primary-blue"
+                }
+            ]
+        }
+    }
+}

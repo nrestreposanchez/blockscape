@@ -1,0 +1,58 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 2,
+    "title": "Midnight Majesty",
+    "settings": {
+        "color": {
+            "palette": [
+                {
+                    "color": "rgba(22, 15, 15, 0.8)",
+                    "name": "Base",
+                    "slug": "base"
+                },
+                {
+                    "color": "#100C0B",
+                    "name": "Heading",
+                    "slug": "heading"
+                },
+                {
+                    "color": "#0C4E77",
+                    "name": "Primary",
+                    "slug": "primary"
+                },
+                {
+                    "color": "rgba(12, 78, 119, 0.04)",
+                    "name": "Section Background",
+                    "slug": "section-bg"
+                },
+                {
+                    "color": "#0C4E77",
+                    "name": "Subtitle Background",
+                    "slug": "sub-bg"
+                },
+                {
+                    "color": "currentColor",
+                    "name": "Current Color",
+                    "slug": "currentColor"
+                },
+                {
+                    "color": "inherit",
+                    "name": "Inherit",
+                    "slug": "inherit"
+                },
+                {
+                    "color": "transparent",
+                    "name": "Transparent",
+                    "slug": "transparent"
+                }
+            ],
+            "gradients": [
+                {
+                    "gradient": "#0C4E77",
+                    "name": "Primary Blue",
+                    "slug": "primary-blue"
+                }
+            ]
+        }
+    }
+}

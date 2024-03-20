@@ -1,0 +1,63 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 2,
+    "title": "Forest Aurora",
+    "settings": {
+        "color": {
+            "palette": [
+                {
+                    "color": "rgba(16, 12, 11, 0.8)",
+                    "name": "Base",
+                    "slug": "base"
+                },
+                {
+                    "color": "#100C0B",
+                    "name": "Heading",
+                    "slug": "heading"
+                },
+                {
+                    "color": "rgba(13, 193, 128, 1)",
+                    "name": "Primary",
+                    "slug": "primary"
+                },
+                {
+                    "color": "linear-gradient(135deg, #DEF3E3 0%, #CADDF2 100%)",
+                    "name": "Section Background",
+                    "slug": "section-bg"
+                },
+                {
+                    "color": "rgba(13, 193, 128, 1)",
+                    "name": "Subtitle Background",
+                    "slug": "sub-bg"
+                },
+                {
+                    "color": "currentColor",
+                    "name": "Current Color",
+                    "slug": "currentColor"
+                },
+                {
+                    "color": "inherit",
+                    "name": "Inherit",
+                    "slug": "inherit"
+                },
+                {
+                    "color": "transparent",
+                    "name": "Transparent",
+                    "slug": "transparent"
+                }
+            ],
+            "gradients": [
+                {
+                    "gradient": "linear-gradient(88.08deg, #0DC180 -10.27%, #008051 107.99%)",
+                    "name": "Primary Blue",
+                    "slug": "primary-blue"
+                }
+            ]
+        }
+    },
+    "styles": {
+        "color": {
+            "gradient":"linear-gradient(135deg, #DEF3E3 0%, #CADDF2 100%)"
+        }
+    }
+}
